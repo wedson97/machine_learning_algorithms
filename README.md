@@ -17,3 +17,6 @@
 <br>
 <h4>Clusters</h4>
 <h6>Clusters, no contexto da análise de dados e aprendizado de máquina, referem-se a grupos ou conjuntos de pontos de dados que compartilham características ou semelhanças entre si. A análise de clusters é uma técnica de mineração de dados que visa encontrar estruturas de agrupamento em um conjunto de dados não rotulado. Ela é usada para descobrir padrões subjacentes, identificar grupos naturais de dados e entender a estrutura interna dos dados.</h6>
+<br>
+<h4>Apriori</h4>
+<h6>O algoritmo Apriori é usado para descobrir regras de associação em conjuntos de dados, como aqueles usados em análise de cestas de compras. Ele é frequentemente aplicado em problemas nos quais você deseja descobrir relações entre itens em transações, como compras de clientes, registros de compras online ou históricos de transações de cartão de crédito. O objetivo é encontrar regras que descrevam associações frequentes entre itens.</h6>
