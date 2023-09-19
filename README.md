@@ -8,3 +8,6 @@
 <br>
 <h4>Arvore de decisão</h4>
 <h6>As árvores de decisão são um tipo de algoritmo de aprendizado de máquina utilizado para tarefas de classificação e regressão. Elas são modelos de aprendizado supervisionado que funcionam de maneira semelhante a uma estrutura de árvore, onde cada nó representa uma decisão ou teste em relação a uma característica (atributo) dos dados.</h6>
+<br>
+<h4>Random Forest</h4>
+<h6>O algoritmo Random Forest é usado para prever coisas com base em dados. Ele cria muitas árvores de decisão e combina suas previsões para obter resultados melhores. Cada árvore vê uma parte diferente dos dados e faz previsões independentes. No final, as previsões são combinadas, como uma votação para classificação ou uma média para regressão. Isso ajuda a evitar erros e torna o modelo mais preciso. É uma técnica poderosa usada em muitas aplicações de aprendizado de máquina em Python.</h6>
