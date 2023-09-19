@@ -14,3 +14,6 @@
 <br>
 <h4>KNN (Vizinho mais próximo)</h4>
 <h6>A ideia principal do KNN é que objetos semelhantes tendem a estar próximos uns dos outros no espaço de características. Portanto, para classificar ou prever um novo ponto de dados, o algoritmo procura pelos "k" pontos de dados mais próximos no conjunto de treinamento e toma uma decisão com base na maioria das classes (para classificação) ou na média dos valores (para regressão) desses pontos de dados mais próximos.</h6>
+<br>
+<h4>Clusters</h4>
+<h6>Clusters, no contexto da análise de dados e aprendizado de máquina, referem-se a grupos ou conjuntos de pontos de dados que compartilham características ou semelhanças entre si. A análise de clusters é uma técnica de mineração de dados que visa encontrar estruturas de agrupamento em um conjunto de dados não rotulado. Ela é usada para descobrir padrões subjacentes, identificar grupos naturais de dados e entender a estrutura interna dos dados.</h6>
