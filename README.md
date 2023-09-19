@@ -11,3 +11,6 @@
 <br>
 <h4>Random Forest</h4>
 <h6>O algoritmo Random Forest é usado para prever coisas com base em dados. Ele cria muitas árvores de decisão e combina suas previsões para obter resultados melhores. Cada árvore vê uma parte diferente dos dados e faz previsões independentes. No final, as previsões são combinadas, como uma votação para classificação ou uma média para regressão. Isso ajuda a evitar erros e torna o modelo mais preciso. É uma técnica poderosa usada em muitas aplicações de aprendizado de máquina em Python.</h6>
+<br>
+<h4>KNN (Vizinho mais próximo)</h4>
+<h6>A ideia principal do KNN é que objetos semelhantes tendem a estar próximos uns dos outros no espaço de características. Portanto, para classificar ou prever um novo ponto de dados, o algoritmo procura pelos "k" pontos de dados mais próximos no conjunto de treinamento e toma uma decisão com base na maioria das classes (para classificação) ou na média dos valores (para regressão) desses pontos de dados mais próximos.</h6>
