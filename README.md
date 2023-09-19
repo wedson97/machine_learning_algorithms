@@ -5,3 +5,6 @@
 <br>
 <h4>Naive Bayes</h4>
 <h6>O classificador Naive Bayes é um algoritmo de aprendizado de máquina que usa o teorema de Bayes para realizar predições. Ele assume que as features são independentes entre si, daí o termo “naive” (ingênuo). O algoritmo é amplamente utilizado em problemas de classificação, como filtragem de spam, análise de sentimentos e diagnóstico médico. Um exemplo clássico em que você encontrará Naive Bayes é a classificação de texto, como a detecção de spam de e-mails normais.</h6>
+<br>
+<h4>Arvore de decisão</h4>
+<h6>As árvores de decisão são um tipo de algoritmo de aprendizado de máquina utilizado para tarefas de classificação e regressão. Elas são modelos de aprendizado supervisionado que funcionam de maneira semelhante a uma estrutura de árvore, onde cada nó representa uma decisão ou teste em relação a uma característica (atributo) dos dados.</h6>
